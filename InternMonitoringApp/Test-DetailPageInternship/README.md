@@ -1,8 +1,8 @@
 # Deskripsi Pengujian
 
-| Objek Pengujian   | Hasil      | Lampiran                                                                             |
-| ----------------- | ---------- | ------------------------------------------------------------------------------------ |
-| Search Internship | Berhasil ✔ | [dokumentasi](<./Kode dan Hasil tes selenium_Fatwa Fatahillah Fatah_1214038_3B.pdf>) |
+| Objek Pengujian        | Hasil      | Lampiran                                                                             |
+| ---------------------- | ---------- | ------------------------------------------------------------------------------------ |
+| Detail Page Internship | Berhasil ✔ | [dokumentasi](<./Kode dan Hasil tes selenium_Fatwa Fatahillah Fatah_1214038_3B.pdf>) |
 
 # Panduan Penggunaan
 
